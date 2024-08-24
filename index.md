@@ -18,7 +18,7 @@ Syntax highlighted code block
 - We get to learn some cool coding information 
 
 
-2. Go Purdue 
+
 
 **Bold** and _Italic_ and `Code` text
 
