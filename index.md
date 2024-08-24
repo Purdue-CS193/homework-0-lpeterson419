@@ -12,14 +12,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-## Header 2
+## CS19300 is awesome 
 ### Header 3
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. testing 
+2. Go Purdue 
 
 **Bold** and _Italic_ and `Code` text
 
